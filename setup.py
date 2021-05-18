@@ -8,7 +8,7 @@ setup(
     license= 'GNU',
     install_requires ='flask',
     entry_points = {
-        'console_script':[
+        'console_scripts':[
             'ser_docker = main:main'
         ]
     }
