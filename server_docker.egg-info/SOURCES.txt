@@ -1,0 +1,8 @@
+README.md
+setup.py
+server_docker.egg-info/PKG-INFO
+server_docker.egg-info/SOURCES.txt
+server_docker.egg-info/dependency_links.txt
+server_docker.egg-info/entry_points.txt
+server_docker.egg-info/requires.txt
+server_docker.egg-info/top_level.txt

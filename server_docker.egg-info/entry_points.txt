@@ -1,0 +1,3 @@
+[console_script]
+ser_docker = main:main
+
